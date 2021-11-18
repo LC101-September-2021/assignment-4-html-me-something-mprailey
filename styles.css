@@ -13,7 +13,7 @@ h2{
 }
 .flex-container {
   display: flex;
-  align:center;
+  margin: 25px;
 }
 .width95{
 	width:95%;
